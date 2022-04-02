@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "homepage": "https://github.com/Andrii-Klym/announcement-app.git",
   "private": true,
+  "engines": {
+    "node": "14.17.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
