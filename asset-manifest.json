@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Andrii-Klym/announcement-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/Andrii-Klym/announcement-app.git/static/js/main.e1a9861c.js",
+    "static/js/787.1ca3e6ef.chunk.js": "/Andrii-Klym/announcement-app.git/static/js/787.1ca3e6ef.chunk.js",
+    "static/media/logo.svg": "/Andrii-Klym/announcement-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Andrii-Klym/announcement-app.git/index.html",
+    "main.073c9b0a.css.map": "/Andrii-Klym/announcement-app.git/static/css/main.073c9b0a.css.map",
+    "main.e1a9861c.js.map": "/Andrii-Klym/announcement-app.git/static/js/main.e1a9861c.js.map",
+    "787.1ca3e6ef.chunk.js.map": "/Andrii-Klym/announcement-app.git/static/js/787.1ca3e6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e1a9861c.js"
+  ]
+}
