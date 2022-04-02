@@ -1,7 +1,7 @@
 {
   "name": "announcement-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Andrii-Klym/announcement-app.git",
+  "homepage": "https://andrii-klym.github.io/announcement-app/",
   "private": true,
   "engines": {
     "node": "14.17.1"
